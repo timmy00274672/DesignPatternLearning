@@ -7,4 +7,6 @@ See the `WorstCalculator` version. There are some drawbacks:
 I recursively refactor this code, and the sequence is:
 
 1. `WorstCalculator`
-2. 
+2. `CalculatorWithMeaningfulVariableName`
+    Fix non-sense variable names
+3. 
