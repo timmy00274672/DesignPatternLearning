@@ -1,4 +1,4 @@
-package app.adapter;
+package app.adapter.rocket;
 
 import javax.swing.table.AbstractTableModel;
 

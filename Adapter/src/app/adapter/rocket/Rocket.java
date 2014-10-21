@@ -1,4 +1,4 @@
-package app.adapter;
+package app.adapter.rocket;
 
 public class Rocket {
     private String name;
